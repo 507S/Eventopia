@@ -12,5 +12,5 @@ import { MatButtonModule } from '@angular/material/button';
   
 })
 export class AppComponent {
-  title = 'crud-angular';
+  title = 'event';
 }

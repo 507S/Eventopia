@@ -9,7 +9,7 @@ import {
 import { provideAnimations } from '@angular/platform-browser/animations';
 import { provideToastr } from 'ngx-toastr';
 import { routes } from './app.routes';
-import { tokenHttpInterceptor } from './token-http-interceptor';
+
 import {
   GoogleLoginProvider,
   SocialAuthServiceConfig,
@@ -19,7 +19,7 @@ export const appConfig: ApplicationConfig = {
   providers: [
     provideRouter(routes),
     provideAnimations(),
-    provideHttpClient(withFetch(),withInterceptors([tokenHttpInterceptor])),
+    provideHttpClient(withFetch()),
     provideToastr(),
     {
       provide: 'SocialAuthServiceConfig',
