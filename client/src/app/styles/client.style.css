@@ -1,14 +1,16 @@
- .bg-image {
-     background-image: url('../../assets/client/bg.jpg');
-     /* Replace with your image URL */
-     background-size: cover;
-     background-position: center;
-     height: 100%;
-     display: flex;
-     align-items: center;
-     justify-content: center;
- }
+.bg-image-o {
+    background-image: url('../../assets/client/bg.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    /* Full viewport height */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    /* Stack content vertically */
+}
 
- .btn-custom {
-     margin: 0 10px;
- }
+.btn-custom {
+    margin: 0 10px;
+}
