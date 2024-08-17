@@ -4,10 +4,13 @@ namespace server.Models
 {
     public class Event
     {
-
         public int Id { get; set; }
         [Required(ErrorMessage = "Please enter event name.")]
         public string Name { get; set; }
+
+        [Required(ErrorMessage = "Please enter organizer name.")]
+        public string Organizer { get; set; }
+        public string Image { get; set; }
         [Required(ErrorMessage = "Please enter event description.")]
         public string Description { get; set; }
         [Required(ErrorMessage = "Please enter event category.")]
