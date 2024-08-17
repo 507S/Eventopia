@@ -1,11 +1,11 @@
 import { Component } from '@angular/core';
 
 @Component({
-  selector: 'app-muk',
+  selector: 'app-navbar',
   standalone: true,
   imports: [],
-  templateUrl: './muk.component.html'
+  templateUrl: './navbar.component.html'
 })
-export class MukComponent {
+export class NavbarComponent {
 
 }

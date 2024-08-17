@@ -1,10 +1,23 @@
 import { Routes } from '@angular/router';
-
-import { MukComponent } from '../client/component/muk/muk.component';
+import { HomeComponent } from '../client/component/home/home.component';
+import { NotFoundComponent } from '../error/not-found/not-found.component';
+import { WelcomeComponent } from '../welcome.component';
 
 export const clientRoutes: Routes = [
   {
-    path: 'client',
-    component: MukComponent
+    path: '',
+    component: WelcomeComponent,
+  },
+  {
+    path: '',
+    component: WelcomeComponent,
+  },
+  {
+    path: 'home',
+    component: HomeComponent,
+  },
+  {
+    path: '**',
+    component: NotFoundComponent,
   },
 ];

@@ -1,0 +1,14 @@
+ .bg-image {
+     background-image: url('../../assets/client/bg.jpg');
+     /* Replace with your image URL */
+     background-size: cover;
+     background-position: center;
+     height: 100%;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+ }
+
+ .btn-custom {
+     margin: 0 10px;
+ }
