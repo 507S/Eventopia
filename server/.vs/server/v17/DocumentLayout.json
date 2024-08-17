@@ -7,8 +7,36 @@
       "RelativeMoniker": "D:0:0:{E148764B-B772-420B-BD2F-4B9C74ACAFC8}|server\\server.csproj|solutionrelative:server\\controllers\\clientevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E148764B-B772-420B-BD2F-4B9C74ACAFC8}|server\\server.csproj|c:\\users\\pc\\music\\eventopia\\server\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E148764B-B772-420B-BD2F-4B9C74ACAFC8}|server\\server.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pc\\Music\\Eventopia\\server\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pc\\Music\\Eventopia\\server\\server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pc\\Music\\Eventopia\\server\\Context\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Context\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pc\\Music\\Eventopia\\server\\.vs\\CMakeWorkspaceSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.vs\\CMakeWorkspaceSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pc\\Music\\Eventopia\\server\\Models\\Event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E148764B-B772-420B-BD2F-4B9C74ACAFC8}|server\\server.csproj|c:\\users\\pc\\music\\eventopia\\server\\server\\migrations\\20240817153425_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E148764B-B772-420B-BD2F-4B9C74ACAFC8}|server\\server.csproj|solutionrelative:server\\migrations\\20240817153425_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E148764B-B772-420B-BD2F-4B9C74ACAFC8}|server\\server.csproj|c:\\users\\pc\\music\\eventopia\\server\\server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E148764B-B772-420B-BD2F-4B9C74ACAFC8}|server\\server.csproj|solutionrelative:server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E148764B-B772-420B-BD2F-4B9C74ACAFC8}|server\\server.csproj|c:\\users\\pc\\music\\eventopia\\server\\server\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,14 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E148764B-B772-420B-BD2F-4B9C74ACAFC8}|server\\server.csproj|c:\\users\\pc\\music\\eventopia\\server\\server\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E148764B-B772-420B-BD2F-4B9C74ACAFC8}|server\\server.csproj|solutionrelative:server\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E148764B-B772-420B-BD2F-4B9C74ACAFC8}|server\\server.csproj|c:\\users\\pc\\music\\eventopia\\server\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E148764B-B772-420B-BD2F-4B9C74ACAFC8}|server\\server.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E148764B-B772-420B-BD2F-4B9C74ACAFC8}|server\\server.csproj|c:\\users\\pc\\music\\eventopia\\server\\server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E148764B-B772-420B-BD2F-4B9C74ACAFC8}|server\\server.csproj|solutionrelative:server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,11 +54,70 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "server.csproj",
+              "DocumentMoniker": "C:\\Users\\pc\\Music\\Eventopia\\server\\server.csproj",
+              "RelativeDocumentMoniker": "server.csproj",
+              "ToolTip": "C:\\Users\\pc\\Music\\Eventopia\\server\\server.csproj",
+              "RelativeToolTip": "server.csproj",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-17T15:46:01.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Music\\Eventopia\\server\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\pc\\Music\\Eventopia\\server\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T15:45:29.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Music\\Eventopia\\server\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Context\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\pc\\Music\\Eventopia\\server\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Context\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T15:42:09.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CMakeWorkspaceSettings.json",
+              "DocumentMoniker": "C:\\Users\\pc\\Music\\Eventopia\\server\\.vs\\CMakeWorkspaceSettings.json",
+              "RelativeDocumentMoniker": ".vs\\CMakeWorkspaceSettings.json",
+              "ToolTip": "C:\\Users\\pc\\Music\\Eventopia\\server\\.vs\\CMakeWorkspaceSettings.json",
+              "RelativeToolTip": ".vs\\CMakeWorkspaceSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-17T15:42:05.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Music\\Eventopia\\server\\Models\\Event.cs",
+              "RelativeDocumentMoniker": "Models\\Event.cs",
+              "ToolTip": "C:\\Users\\pc\\Music\\Eventopia\\server\\Models\\Event.cs",
+              "RelativeToolTip": "Models\\Event.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T15:40:38.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "20240817153425_initial.cs",
               "DocumentMoniker": "C:\\Users\\pc\\Music\\Eventopia\\server\\server\\Migrations\\20240817153425_initial.cs",
               "RelativeDocumentMoniker": "server\\Migrations\\20240817153425_initial.cs",
@@ -46,12 +125,11 @@
               "RelativeToolTip": "server\\Migrations\\20240817153425_initial.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-17T15:34:26.705Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-17T15:34:26.705Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\pc\\Music\\Eventopia\\server\\server\\Program.cs",
               "RelativeDocumentMoniker": "server\\Program.cs",
@@ -64,7 +142,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\pc\\Music\\Eventopia\\server\\server\\appsettings.json",
               "RelativeDocumentMoniker": "server\\appsettings.json",
@@ -72,12 +150,11 @@
               "RelativeToolTip": "server\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-17T15:26:13.266Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-17T15:26:13.266Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\pc\\Music\\Eventopia\\server\\server\\Context\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "server\\Context\\ApplicationDbContext.cs",
@@ -85,12 +162,11 @@
               "RelativeToolTip": "server\\Context\\ApplicationDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-17T15:23:19.525Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-17T15:23:19.525Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "Event.cs",
               "DocumentMoniker": "C:\\Users\\pc\\Music\\Eventopia\\server\\server\\Models\\Event.cs",
               "RelativeDocumentMoniker": "server\\Models\\Event.cs",
@@ -98,8 +174,7 @@
               "RelativeToolTip": "server\\Models\\Event.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAAwBIAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-17T15:22:08.213Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-17T15:22:08.213Z"
             },
             {
               "$type": "Document",
