@@ -8,10 +8,7 @@ export const clientRoutes: Routes = [
     path: '',
     component: WelcomeComponent,
   },
-  {
-    path: '',
-    component: WelcomeComponent,
-  },
+
   {
     path: 'home',
     component: HomeComponent,
